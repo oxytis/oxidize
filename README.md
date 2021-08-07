@@ -4,4 +4,5 @@ Discover PII sensitive data. Find personally identifiable information in your en
 
 Useful during network assessments by red teams who are looking for the "loot" in a post-exploitation scenario. Add Sabrespy to your toolkit!
 
+tactical version
 
