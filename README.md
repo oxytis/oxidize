@@ -6,5 +6,5 @@ Useful during network assessments by red teams who are looking for the "loot" in
 
 tactical version written in Golang is available in 64-bit versions for both Windows and Linux for finding data in U.S. jurisdictions.
 
-find popular data elements such as SSN, CCN, and DOB in [PDFs, DOCs, XLSs, TXT, and text files in ZIPs].
+find popular data elements such as SSN, CCN, and DOB in [PDFs, DOCs, XLSs, EMLs. Text, and text files in ZIPs].
 
