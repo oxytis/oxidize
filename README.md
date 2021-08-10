@@ -8,3 +8,5 @@ Tactical version written in Golang is available in 64-bit versions for both Wind
 
 Find the most common data elements SSN, CCN, and DOB in [PDF, DOC|DOCX, XLS|XLSX, EML. Plain|Text|CSV, and files in ZIP archives!.
 
+Additional dependenices -> "apt install poppler-utils wv unrtf tidy".
+
