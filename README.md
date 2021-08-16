@@ -1,6 +1,6 @@
 # Sabrespy
 
-Discover PII sensitive data. Find personally identifiable information in your environment such as financial. Quickly determine exposure after a breach. Most common elements Dates of Birth, Social, Credit Cards, and Tax ID are searched for as these are most likely to be associated to an individual. Other quasi identifying data will not be checked as it is not meaningful or useful unless associated. Does not satisfy data breach reporting requirements, for that use Sabreware Sabrespy service.
+Discover PII sensitive data. Find personally identifiable information in your environment such as financial. Quickly determine exposure after a breach. Most common elements Dates of Birth, Social Security Numbers, Credit Card Numbers, and other Tax ID Numbers are searched for as these are most likely to be associated to an individual. Other quasi identifying data will not be checked as it is not meaningful or useful unless associated. Does not satisfy data breach reporting requirements, for that use Sabreware Sabrespy service.
 
 Useful during network assessments by red teams who are looking for the "loot" in a post-exploitation scenario. Add Sabrespy to your toolkit!
 
