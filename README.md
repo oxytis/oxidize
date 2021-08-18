@@ -10,3 +10,6 @@ Find the most common data elements SSN, Tax IDs, CCN, and DOB in PDF, DOC|DOCX, 
 
 Additional dependencies -> "apt install poppler-utils wv unrtf tidy".
 
+adding -loot option saves the data to a zip file.
+
+Usage: ./sabrespy-1.3.2 -path ../data/testdata -loot
