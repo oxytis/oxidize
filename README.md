@@ -12,4 +12,4 @@ Additional dependencies -> "apt install poppler-utils wv unrtf tidy".
 
 adding -loot option saves the data to a zip file.
 
-Usage: ./sabrespy-1.3.5 -path ../data/testdata -loot
+Usage: ./sabrespy -path ../data/testdata -loot
