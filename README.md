@@ -1,8 +1,8 @@
 # Oxidize - tactical version
 
-Discover PII sensitive data. Find personally identifiable information in your environment such as financial. Quickly determine exposure after a breach. Most common elements Dates of Birth, Social Security Numbers, Credit Card Numbers, and other Tax ID Numbers are searched for as these are most likely to be associated to an individual. Other quasi identifying data will not be checked as it is not meaningful or useful unless associated. Does not satisfy data breach reporting requirements, for that use Sabreware Sabrespy service.
+Discover PII sensitive data. Find personally identifiable information in your environment such as financial. Quickly determine exposure after a breach. Most common elements Dates of Birth, Social Security Numbers, Credit Card Numbers, and other Tax ID Numbers are searched for as these are most likely to be associated to an individual. Other quasi identifying data will not be checked as it is not meaningful or useful unless associated. Does not satisfy data breach reporting requirements, for that use Oxytis "oxidize" service.
 
-Useful during network assessments by red teams who are looking for the "loot" in a post-exploitation scenario. Add Sabrespy to your toolkit!
+Useful during network assessments by red teams who are looking for the "loot" in a post-exploitation scenario. Add oxidize to your toolkit!
 
 Tactical version written in Go is available in 64-bit versions for both Windows and Linux for finding data impacting U.S. residents.
 
@@ -12,4 +12,4 @@ Additional dependencies -> "apt install poppler-utils wv unrtf tidy".
 
 adding -loot option saves the data to a zip file.
 
-Usage: ./sabrespy --path ../data/testdata --loot
+Usage: ./oxidize --path ../data/testdata --loot
