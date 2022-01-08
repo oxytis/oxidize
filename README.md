@@ -13,3 +13,9 @@ Additional dependencies -> "apt install poppler-utils wv unrtf tidy".
 adding -loot option saves the data to a zip file.
 
 Usage: ./oxidize --path ../data/testdata --loot
+
+Adding --powertrain option outputs "oxidize.txt" file, upload to powertrain with config file for a report, US only.
+Usage: ./oxidize --path ../data/testdata --loot --powertrain --remote="user:pass:host"
+
+Adding --remote option copies l00t to a remote host via ssh
+Usage: ./oxidize --path ../data/testdata --loot --powertrain --remote="user:pass:host"
