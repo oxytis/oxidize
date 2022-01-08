@@ -14,8 +14,8 @@ adding -loot option saves the data to a zip file.
 
 Usage: ./oxidize --path ../data/testdata --loot
 
-Adding --powertrain option outputs "oxidize.txt" file, upload to powertrain with config file for a report, US only.
-Usage: ./oxidize --path ../data/testdata --loot --powertrain --remote="user:pass:host"
-
-Adding --remote option copies l00t to a remote host via ssh
+Adding --powertrain option outputs "oxidize.txt" file, upload to powertrain with config file for a report, US only.\n
+Usage: ./oxidize --path ../data/testdata --loot --powertrain --remote="user:pass:host"\n
+\n
+Adding --remote option copies l00t to a remote host via ssh\n
 Usage: ./oxidize --path ../data/testdata --loot --powertrain --remote="user:pass:host"
