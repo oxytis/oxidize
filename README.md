@@ -22,3 +22,5 @@ Adding --powertrain option outputs "oxidize.txt" file, upload to powertrain with
 Adding --remote option copies l00t to a remote host via ssh
 
 <b>Usage:</b> ./oxidize --path ../data/testdata --loot --powertrain --remote="user:pass:host"
+
+Use the commercial version for comprehensive file coverage: https://www.oxytis.com/oxidize
